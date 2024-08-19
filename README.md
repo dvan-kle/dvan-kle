@@ -7,6 +7,6 @@
      -  [_daniel@vkleef.nl_](mailto:daniel@vkleef.nl)
      -  [_linkedin_](www.linkedin.com/in/daniël-van-kleef-423b921b9)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dvan-kle)](https://git.io/streak-stats)
 
 
